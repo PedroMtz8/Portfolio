@@ -130,6 +130,16 @@ h6 {
   margin-left: 300px;
 }
 
+.justify-main-text{
+  text-align: justify;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.justify-main-text2{
+  width: 90%;
+}
+
 @media (max-width: 1199px) {
   #header {
     left: -300px;
