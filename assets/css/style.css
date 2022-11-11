@@ -1085,6 +1085,10 @@ section {
     display: block !important;
   }
 
+  .logo_tech{
+    margin-bottom: 16px;
+  }
+
   .breadcrumbs ol {
     display: block;
   }
